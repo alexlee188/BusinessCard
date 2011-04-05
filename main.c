@@ -1,9 +1,5 @@
 #include <p24FJ64GB002.h>
 #include "main.h"
-#include "ticks.h"
-#include "eeprom.h"
-#include "uart.h"
-#include "console.h"
 
 _CONFIG2(IESO_OFF & PLL96MHZ_ON & FNOSC_FRCDIV & FCKSM_CSECMD & OSCIOFNC_ON & IOL1WAY_ON & I2C1SEL_PRI & POSCMOD_NONE)
 _CONFIG1(JTAGEN_OFF & GCP_OFF & GWRP_OFF & ICS_PGx1 & FWDTEN_OFF & WINDIS_OFF & FWPSA_PR32 & WDTPS_PS1)
