@@ -1,4 +1,4 @@
-#include <p24FJ64GA002.h>
+#include <p24FJ64GB002.h>
 #include "i2c.h"
 
 #ifdef INCLUDE_I2C1_PIC24

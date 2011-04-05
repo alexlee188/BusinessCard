@@ -1,4 +1,4 @@
-#include <p24FJ64GA002.h>
+#include <p24FJ64GB002.h>
 #include "uart.h"
 
 volatile struct uart_buffer buf_rx;
