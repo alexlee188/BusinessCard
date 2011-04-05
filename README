@@ -1,0 +1,11 @@
+BusinessCard
+
+The idea of a business card with an embedded uC was taken from:
+
+http://t4f.org/en/projects/business-card
+
+George Boudreau borrowed the idea (with permission) and created the hardware.  The uC is the PIC24FJ64GA002.
+
+This repo is for firmware for the card.
+
+Developers include Alex Lee, Loftur Jonasson and George Boudreau.
