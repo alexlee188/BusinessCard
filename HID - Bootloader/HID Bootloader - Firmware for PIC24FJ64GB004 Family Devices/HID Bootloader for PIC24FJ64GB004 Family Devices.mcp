@@ -101,7 +101,7 @@ file_013=..\..\..\Microchip\Include\GenericTypeDefs.h
 file_014=..\..\..\Microchip\Include\Compiler.h
 file_015=..\..\..\Microchip\USB\usb_device_local.h
 file_016=HardwareProfile - PIC24FJ64GB002 PIM.h
-file_017=C:\Program Files\Microchip\mplabc30\v3.25\support\PIC24F\gld\p24FJ64GB002.gld
+file_017=Boot loader linker files\boot_hid_boot_p24FJ64GB002.gld
 file_018=..\..\..\Microchip\Help\MCHPFSUSB Library Help.chm
 [SUITE_INFO]
 suite_guid={479DDE59-4D56-455E-855E-FFF59A3DB57E}
